@@ -1,0 +1,51 @@
+body {
+    background: url("../images/cosmic.jpg");
+}
+
+.jumbotron {
+    margin: 0 auto;
+    max-width: 400px;
+    max-height: 600px;
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.list-group {
+    margin: 0 auto;
+    max-width: 300px;
+}
+
+.btn {
+    background-color: #300032;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #dbba00b9;
+    border: none;
+}
+
+.btn:active {
+    background-color: #300032;
+    border: none;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+    margin-left: 15px;
+}
+
+h1:hover {
+    color: #dbba00b9;
+}
+
+img {
+    max-width: 80px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
